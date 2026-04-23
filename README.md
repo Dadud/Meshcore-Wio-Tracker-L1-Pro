@@ -48,9 +48,12 @@ MeshCore provides the core mesh networking firmware, board support, packet/messa
 - **Dadud**
 - Fork used to preserve progress, analyze the firmware, and prepare a UI-forward port to newer MeshCore releases
 
-If you benefit from the original custom firmware work, please support the original author where appropriate:
+If you benefit from the original custom firmware work and want to donate, please note:
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=przemeks&button_colour=ff8800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/przemeks)
+- **This donation link goes to sosprz / Przemek S, the original custom firmware author**
+- **It does not go to Dadud or this fork**
+
+[![Buy Me a Coffee for sosprz / Przemek S](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=przemeks&button_colour=ff8800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/przemeks)
 
 ## Download firmware
 
