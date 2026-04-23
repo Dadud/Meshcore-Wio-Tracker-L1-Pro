@@ -1,0 +1,73 @@
+0x00024AE6	HBgps
+0x0008D6E4	/channels2
+0x0008D6F0	/contacts3
+0x0008DA24	gps_interval
+0x0008E230	+Add quick text
+0x0008E240	-Remove quick text
+0x0008EDB4	Quick text
+0x0008EDDC	Type quick text
+0x0008EE00	Remove quick text
+0x00090118	Channels
+0x00090124	No adverts
+0x000901A8	GPS:%s BT:%s
+0x00090218	Radio Settings
+0x00090284	Custom Radio
+0x000902B8	Radio Presets
+0x000903CC	Remove all messages?
+0x0009054C	Tools
+0x00090618	You got KEY to priv channel!
+0x0009066C	Display
+0x00090674	Radio
+0x00090684	Bluetooth
+0x00090690	Sound
+0x00090698	System
+0x000906F0	Advert sound ON
+0x00090700	Advert sound OFF
+0x00090770	No GPS data
+0x0009077C	Adverts Settings
+0x00090790	Advert sound
+0x000907E4	Adverts
+0x00090824	Contacts
+0x00090874	No GPS
+0x0009087C	GPS OFF
+0x000908C8	GPS Data
+0x0009090C	GPS Hardware
+0x00090960	GPS Settings
+0x00090970	GPS %s
+0x00090978	Show GPS data
+0x00090988	Show GPS hardware
+0x000909AC	GPS Units
+0x00090AD0	You got invite to priv channel. Select this line and press Enter
+0x00090B78	Messages cleared
+0x00090BAC	Clear messages?
+0x00090D14	GPS %s %s
+0x00091038	No repeaters found
+0x00091118	+Join priv channel
+0x0009112C	+Create priv channel
+0x00091150	Channels (%d)
+0x0009123C	Battery
+0x00091268	No contacts
+0x000912DC	Messages
+0x00091350	Repeaters:
+0x000913BC	Contacts Settings
+0x000913F0	contacts?
+0x000913FC	ContactSettings: autoadd_config=0x%02X
+0x00091438	No messages
+0x000914C8	CONTACTS
+0x000915C0	Sound: %s
+0x00091F6C	GPS: Disabled
+0x00091F7C	GPS: Enabled
+0x000920FC	Countdown Timer
+0x00092118	Remove messages
+0x00092128	Snake
+0x00092138	Stopwatch
+0x00092190	Discover Repeaters
+0x0009226C	Home Radio
+0x00092278	Home GPS
+0x00092284	Home Time
+0x00092290	Home Bluetooth
+0x000922A0	Home Sound
+0x000922B4	contacts
+0x000922C0	repeaters
+0x000926F0	ERROR: radio init failed: 
+0x00094330	Filesystem mounted

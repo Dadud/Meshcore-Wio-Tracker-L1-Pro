@@ -1,0 +1,61 @@
+0x0008D7B8	[Telemetry] request received from %s len=%u
+0x0008D7E8	[Telemetry] perms=0x%02X mask=0x%02X
+0x0008D810	[Telemetry] reply size=%u
+0x0008DC70	[Telemetry] legacy request sent to %s flood=%u tag=%lu
+0x0008DCA8	[Login] legacy OK from %s
+0x0008DCC4	[Login] OK from %s perms=%u
+0x0008DCE4	[Login] FAIL from %s
+0x0008DD34	[Telemetry] pending tag=%lu got tag=%lu from %s len=%u
+0x000904EC	Room login unavailable
+0x000909FC	Login...
+0x00090EA4	Login in progress
+0x00090EB8	No login screen
+0x00090EF4	Telemetry perms
+0x00090F04	Login required
+0x00090F7C	Request telemetry
+0x00091038	No repeaters found
+0x00091350	Repeaters:
+0x00091618	Login FAIL
+0x00091624	LOGIN FAIL
+0x00091630	LOGIN OK
+0x0009163C	[Telemetry] requestStatus sent=%s
+0x00091660	[Telemetry] requestTelemetry sent=%s mask=0x%02X
+0x000916A4	[Login] manual response %s for %s
+0x000916D0	[Status] admin requestStatus sent=%s
+0x000916F8	[Telemetry] login response %s for %s
+0x00091720	[Telemetry] requestStatus direct fallback sent=%s
+0x00091754	[Telemetry] requestTelemetry direct fallback sent=%s
+0x00091864	[Login] %s try '%s' (flood-fallback) for %s
+0x00091894	[Login] %s try '%s' (direct) for %s
+0x000918CC	[Login] %s try '%s' (primary) for %s
+0x00091930	[Telemetry] response %u bytes from %s
+0x00091958	[Telemetry] payload hex: 
+0x00091A2C	[Telemetry] requestTelemetry direct sent for %s mask=0x%02X
+0x00091A6C	[Telemetry] login try '%s' (flood) for %s
+0x00091A98	[Telemetry] login try '%s' (direct) for %s
+0x00091AC4	[Telemetry] sendLogin fallbacks for %s mask=0x%02X
+0x00091AF8	[Telemetry] waiting login for %s
+0x00091B1C	Repeater
+0x00091B44	Login failed
+0x00091B54	Login timeout
+0x00091BFC	[Telemetry] follow-up legacy send to %s
+0x00091C28	[Telemetry] follow-up requestTelemetry(legacy) sent=%s
+0x00091C60	[Telemetry] follow-up masked send to %s
+0x00091C8C	[Telemetry] follow-up timeout, retry to %s
+0x00091CB8	[Owner] follow-up delayed send to %s
+0x00091CE0	[Owner] follow-up timeout, retry to %s
+0x00091D08	[ACL] follow-up delayed send to %s
+0x00091D2C	[Nbr] follow-up delayed send to %s
+0x00091D5C	[Telemetry] follow-up requestTelemetry(mask=0x%02X) sent=%s
+0x00091D9C	[Telemetry] follow-up retry(mask=0x%02X) sent=%s
+0x00091DD0	[Owner] follow-up requestOwnerInfo sent=%s
+0x00091DFC	[Owner] follow-up retry sent=%s
+0x00091E20	[ACL] follow-up requestAccessList sent=%s
+0x00091E4C	[ACL] follow-up retry sent=%s
+0x00091E6C	[Nbr] follow-up requestNeighbours sent=%s
+0x00091E98	[Nbr] follow-up retry sent=%s
+0x00091EB8	LOGIN TIMEOUT
+0x0009217C	Telemetry
+0x00092190	Discover Repeaters
+0x000921FC	Login
+0x000922C0	repeaters

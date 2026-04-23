@@ -1,0 +1,23 @@
+0x000708EA	*qZF8F)D
+	ref 0x0005519B
+	ref 0x0005D23D
+0x000901F0	Custom saved
+	ref 0x000098C7
+	ref 0x00009927
+	ref 0x00010F5B
+	ref 0x00024095
+	ref 0x000240E1
+0x00090CF0	%u:%s %s
+	ref 0x0000C36D
+0x000914F0	Private key
+	ref 0x0005CC15
+0x00091660	[Telemetry] requestTelemetry sent=%s mask=0x%02X
+	ref 0x0003B744
+0x000919F4	Defaults restored
+	ref 0x0006B3EC
+0x000920F0	Password
+	ref 0x00025FDD
+0x00092290	Home Bluetooth
+	ref 0x00097222
+0x00092B34	BLE: CONN_PARAM_UPDATE_REQUEST: ignoring stale callback for handle=0x%04X
+	ref 0x0006A9DC

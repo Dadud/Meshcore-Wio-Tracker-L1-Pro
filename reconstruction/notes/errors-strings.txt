@@ -1,0 +1,94 @@
+0x0008D854	  Error: unknown config: %s
+0x0008D898	  Error: erase failed
+0x0008D968	Invalid path provided, must start with UserData/ or ExtraFS/
+0x0008D9AC	Invalid path provided
+0x0008D9D4	Failed to remove file
+0x0008D9F4	  Error: unknown command
+0x0008DCE4	[Login] FAIL from %s
+0x00090518	Room send failed
+0x0009073C	Advert failed..
+0x00090A08	Send failed
+0x00090B9C	Remove failed
+0x00090C1C	Disabled
+0x00090C48	Save failed
+0x00090C54	Open failed
+0x00090C98	Delete failed
+0x00090CB4	Reset failed
+0x00090CC4	Favorite failed
+0x00090CFC	Ping failed
+0x00090DA0	Sync failed
+0x00090DC4	Read failed
+0x00090DE8	Advert failed
+0x00090E14	Reboot failed
+0x00090E48	Owner failed
+0x00090E58	OWNER FAILED
+0x00090E80	Neighbours failed
+0x00090E94	NEIGHBOURS FAIL
+0x000912F8	Invalid name
+0x00091318	Add failed
+0x00091618	Login FAIL
+0x00091624	LOGIN FAIL
+0x00091694	Request failed
+0x000916C8	FAIL
+0x00091B44	Login failed
+0x00091B54	Login timeout
+0x00091B9C	[Status] timeout, retry to %s via best path
+0x00091BDC	Stats failed
+0x00091BEC	Stats timeout
+0x00091C8C	[Telemetry] follow-up timeout, retry to %s
+0x00091CE0	[Owner] follow-up timeout, retry to %s
+0x00091EB8	LOGIN TIMEOUT
+0x00091F6C	GPS: Disabled
+0x000926F0	ERROR: radio init failed: 
+0x00092A50	BLE: CONN_PARAM_UPDATE_REQUEST: handle=0x%04X, min_interval=%u, max_interval=%u, latency=%u, timeout=%u
+0x00092AF4	BLE: ERROR: Failed to accept CONN_PARAM_UPDATE_REQUEST: 0x%08X
+0x00092C8C	BLE: writeBytes: connection invalid, clearing send queue
+0x00092D34	BLE: writeBytes failed: connection lost, dropping frame
+0x00092D70	BLE: writeBytes failed (buffer full), keeping frame for retry
+0x00092ED4	BLE: SerialBLEInterface: pairing failed, disconnecting
+0x00092F40	BLE: PPCP set: %u-%ums interval, latency=%u, %ums timeout
+0x00092F7C	BLE: Failed to set PPCP: %lu
+0x00093028	BLE: Connection parameter update requested: %u-%ums interval, latency=%u, %ums timeout
+0x00093080	BLE: Failed to request connection parameter update: %lu
+0x0009405C	LFS WRITE FAILED: block=
+0x00094078	LFS READ FAILED: block=
+0x00094090	JEDEC read failed: 0x
+0x000940B4	Invalid JEDEC ID - check connections
+0x0009410C	LFS ERASE FAILED: block=
+0x00094258	QSPI init failed: 0x
+0x000942B8	Chip detection failed
+0x000942D0	Mount failed, formatting...
+0x000942EC	Format failed!
+0x000942FC	Mount failed after format!
+0x00094344	QSPI ready timeout!
+0x00094630	Error expected cut 1.1 but found 
+0x000946EC	VL53L0X Error: 
+0x00094708	VCSEL Continuity Test Failure
+0x00094728	VCSEL Watchdog Test Failure
+0x00094758	MSRC No Target Error
+0x00094780	Range Phase Check Error
+0x00094798	Sigma Threshold Check Error
+0x000947B4	TCC Error
+0x000947C0	Phase Consistency Error
+0x000947D8	Min Clip Error
+0x000947F8	Range Algo Underflow Error
+0x00094814	Range Algo Overflow Error
+0x00094830	Range Ignore Threshold Error
+0x00094850	Unknown Error Code
+0x000948B4	Sigma Fail
+0x000948C0	Signal Fail
+0x000948CC	Min Range Fail
+0x000948DC	Phase Fail
+0x000948E8	Hardware Fail
+0x000A15A0	Fail to acquire mutex
+0x000A15B8	Fail to release mutex
+0x000A15D0	Fail to increase PM counter
+0x000A15F0	Fail to decrease PM counter
+0x000A1698	Fail to get TRNG characterization parameters 
+0x000A16C8	Fail to create SYM mutex
+0x000A16E4	Fail to create ASYM mutex
+0x000A1700	Failed to create Power mutex
+0x000A1720	Fail to create GenVec mutex
+0x000A1740	Can't initialize mutex, was NULL
+0x000A1764	Can't lock mutex, was NULL
+0x000A1784	Can't unlock mutex, was NULL

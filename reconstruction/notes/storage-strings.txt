@@ -1,0 +1,20 @@
+0x00090384	Free QSPI
+0x000919F4	Defaults restored
+0x00093FE8	littlefs
+0x0009419C	_configure_lfs: Context verification - _qspi_initialized = 
+0x00094238	Starting QSPI initialization...
+0x00094258	QSPI init failed: 0x
+0x00094270	QSPI driver initialized
+0x00094288	Activating QSPI...
+0x0009429C	Waiting for QSPI ready...
+0x00094344	QSPI ready timeout!
+0x00094358	QSPI is ready
+0x000A15A0	Fail to acquire mutex
+0x000A15B8	Fail to release mutex
+0x000A16C8	Fail to create SYM mutex
+0x000A16E4	Fail to create ASYM mutex
+0x000A1700	Failed to create Power mutex
+0x000A1720	Fail to create GenVec mutex
+0x000A1740	Can't initialize mutex, was NULL
+0x000A1764	Can't lock mutex, was NULL
+0x000A1784	Can't unlock mutex, was NULL
