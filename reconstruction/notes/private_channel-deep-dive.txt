@@ -1,0 +1,4 @@
+0x00090618	You got KEY to priv channel!
+0x00090AD0	You got invite to priv channel. Select this line and press Enter
+0x00091118	+Join priv channel
+0x0009112C	+Create priv channel

@@ -1,0 +1,12 @@
+0x0008E230	+Add quick text
+0x0008E240	-Remove quick text
+0x0008EDB4	Quick text
+0x0008EDDC	Type quick text
+0x0008EE00	Remove quick text
+0x000903CC	Remove all messages?
+0x00090B78	Messages cleared
+0x00090BAC	Clear messages?
+0x000912DC	Messages
+0x000913F0	contacts?
+0x00091438	No messages
+0x00092118	Remove messages

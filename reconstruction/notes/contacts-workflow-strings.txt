@@ -1,0 +1,12 @@
+0x0008D6F0	/contacts3
+0x00090824	Contacts
+0x00091038	No repeaters found
+0x00091268	No contacts
+0x00091350	Repeaters:
+0x000913BC	Contacts Settings
+0x000913F0	contacts?
+0x000913FC	ContactSettings: autoadd_config=0x%02X
+0x000914C8	CONTACTS
+0x00092190	Discover Repeaters
+0x000922B4	contacts
+0x000922C0	repeaters

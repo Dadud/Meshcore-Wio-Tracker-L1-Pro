@@ -1,0 +1,36 @@
+0x00024AE6	HBgps
+0x0008DA24	gps_interval
+0x000901A8	GPS:%s BT:%s
+0x00090218	Radio Settings
+0x00090284	Custom Radio
+0x000902B8	Radio Presets
+0x0009066C	Display
+0x00090674	Radio
+0x00090684	Bluetooth
+0x00090690	Sound
+0x00090698	System
+0x000906F0	Advert sound ON
+0x00090700	Advert sound OFF
+0x00090770	No GPS data
+0x00090790	Advert sound
+0x00090874	No GPS
+0x0009087C	GPS OFF
+0x000908C8	GPS Data
+0x0009090C	GPS Hardware
+0x00090960	GPS Settings
+0x00090970	GPS %s
+0x00090978	Show GPS data
+0x00090988	Show GPS hardware
+0x000909AC	GPS Units
+0x00090D14	GPS %s %s
+0x0009123C	Battery
+0x000915C0	Sound: %s
+0x00091F6C	GPS: Disabled
+0x00091F7C	GPS: Enabled
+0x0009226C	Home Radio
+0x00092278	Home GPS
+0x00092284	Home Time
+0x00092290	Home Bluetooth
+0x000922A0	Home Sound
+0x000926F0	ERROR: radio init failed: 
+0x00094330	Filesystem mounted
