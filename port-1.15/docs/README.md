@@ -17,8 +17,9 @@ This workspace is for porting the custom Wio Tracker L1 Pro UI layer onto upstre
 
 ## Immediate next steps
 
-1. wire the adapter interfaces to real MeshCore 1.15 types
-2. implement thread/history service over MeshCore message callbacks
-3. implement private-channel invite parsing
-4. implement repeater workflow service and decoded result models
-5. attach UI screens to upstream `UIScreen`/display primitives
+1. fork `examples/companion_radio` into a custom app/example target
+2. wire the adapter interfaces to real MeshCore 1.15 types
+3. implement thread/history service over MeshCore message callbacks
+4. implement private-channel invite parsing
+5. implement repeater workflow service and decoded result models
+6. attach UI screens to upstream `UIScreen`/display primitives

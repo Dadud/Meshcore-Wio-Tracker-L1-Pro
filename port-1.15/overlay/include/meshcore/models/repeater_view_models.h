@@ -12,6 +12,8 @@
 
 typedef struct {
   bool valid;
+  uint8_t pub_key[6];   // identifying prefix of the repeater that reported this status
+  uint8_t channel_idx;   // channel index used for this repeater session (0xff = none)
   uint32_t uptime_seconds;
   uint32_t rx_packets;
   uint32_t tx_packets;
@@ -24,6 +26,8 @@ typedef struct {
 
 typedef struct {
   bool valid;
+  uint8_t pub_key[6];
+  uint8_t channel_idx;
   char owner_name[MC_MAX_OWNER_NAME];
   char owner_info[MC_MAX_OWNER_INFO];
 } mc_repeater_owner_view_t;
@@ -35,6 +39,8 @@ typedef struct {
 
 typedef struct {
   bool valid;
+  uint8_t pub_key[6];
+  uint8_t channel_idx;
   uint8_t count;
   mc_acl_entry_t entries[MC_MAX_ACL_ROWS];
 } mc_repeater_acl_view_t;
@@ -48,6 +54,8 @@ typedef struct {
 
 typedef struct {
   bool valid;
+  uint8_t pub_key[6];
+  uint8_t channel_idx;
   uint8_t count;
   mc_neighbour_entry_t entries[MC_MAX_NEIGHBOURS];
 } mc_repeater_neighbours_view_t;

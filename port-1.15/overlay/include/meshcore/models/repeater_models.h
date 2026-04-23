@@ -15,6 +15,8 @@ typedef enum {
 } mc_repeater_request_kind_t;
 
 typedef struct {
+  uint8_t pub_key[6];        // identifying prefix of the currently-active repeater session
+  uint8_t channel_idx;       // channel index for this repeater session
   bool login_required;
   bool login_in_progress;
   bool login_ok;
